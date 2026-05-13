@@ -1,0 +1,4 @@
+NAMA MATA KULIAH : Bahasa Pemrograman
+SKS              : 3
+SEMESTER         : 2
+DOSEN PANGAMPU   : Ibu Ranny Meilisa, S.Kom., M.Pd.T.
